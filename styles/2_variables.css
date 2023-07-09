@@ -1,0 +1,13 @@
+:root {
+  --light-color: #fff;
+  --dark-color: #1d1d1d;
+
+  --accent-color: #f4f4f4;
+
+  --html-quiz-color: #e54d26;
+  --css-quiz-color: #2673b8;
+  --js-quiz-color: #dab92c;
+
+  --correct-answer-color: #299029;
+  --wrong-answer-color: #ff0000;
+}
